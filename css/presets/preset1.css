@@ -7,7 +7,7 @@ a:hover,
 .member-info ul li a:hover, 
 .member-info .lead, #contact i, 
 #contact a.contact-info:hover{	
-	color:#00aeef;
+	color:#3a5795;
 }
 
 .section-title:after, 
@@ -19,19 +19,19 @@ a:hover,
 .list-image:before, 
 #event-carousel .event-date, 
 .become-volunteer  {	
-	background-color:#00aeef;	
+	background-color:#3a5795;	
 }
 .btn-primary, 
 .carousel-indicators .active, 
 #contact-form input:focus, 
 #contact-form textarea:focus {
-	border-color:#00aeef;
+	border-color:#3a5795;
 }
 .search-form {
-	border:1px solid #00aeef;
+	border:1px solid #3a5795;
 }
 .single-post .post-image:before {
-	border-color:#00aeef transparent transparent;
+	border-color:#3a5795 transparent transparent;
 }
 
 .btn-primary:hover, 
